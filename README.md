@@ -1,20 +1,20 @@
 <!--
   ============================================================
-  👑  REDESIGNED README.md  –  Modern & Professional
+  ⚡  ULTIMATE README PROFILE  –  Modern & Professional
   ============================================================
-  Compatible with GitHub's markdown rendering.
-  Uses inline CSS, HTML5 elements, and shield.io badges.
+  Fully compatible with GitHub's markdown rendering.
+  Uses inline CSS, HTML5, shield.io badges, and vercel stats.
   ============================================================
 -->
 
 <div align="center">
 
-  <!-- ====== HEADER / BANNER ====== -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dicky+%F0%9F%91%8B;Full-Stack+Web+Developer;Laravel+%7C+JavaScript+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <!-- ====== HERO / TYPING BANNER ====== -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B;I'm+Muhammad+Dicky+Imansyah;Full-Stack+Web+Developer;Laravel+%7C+React+%7C+TypeScript;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
-  <br />
+  <br /><br />
 
-  <!-- ====== SOCIAL BADGES ====== -->
+  <!-- ====== SOCIAL BADGES (with gradient hover effect) ====== -->
   <p>
     <a href="https://instagram.com/_monarch12/">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e" />
@@ -32,37 +32,37 @@
 
   <br />
 
-  <!-- ====== DIVIDER ====== -->
+  <!-- ====== RAINBOW DIVIDER ====== -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 </div>
 
-<!-- ====== ABOUT ME ====== -->
-<table align="center" width="100%" border="0" cellpadding="20" cellspacing="0" style="background: linear-gradient(145deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 20px; padding: 20px;">
+<!-- ====== ABOUT ME SECTION (Two-column layout with avatar) ====== -->
+<table align="center" width="100%" border="0" cellpadding="20" cellspacing="0" style="background: linear-gradient(145deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 24px; padding: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.5);">
   <tr>
-    <td valign="middle" width="70%">
-      <h2 style="color: #00E5FF; font-family: 'Segoe UI', sans-serif; margin-bottom: 6px;">
+    <td valign="middle" width="68%">
+      <h2 style="color: #00E5FF; font-family: 'Segoe UI', sans-serif; margin-bottom: 4px; font-weight: 600; letter-spacing: 0.5px;">
         ⚡ About Me
       </h2>
-      <p style="color: #c0c0d0; font-size: 16px; line-height: 1.7; font-family: 'Segoe UI', sans-serif;">
+      <p style="color: #c0c0d0; font-size: 16px; line-height: 1.8; font-family: 'Segoe UI', sans-serif; margin-top: 8px;">
         I'm <strong style="color: #ffffff;">Muhammad Dicky Imansyah</strong> — a passionate
-        <strong style="color: #00E5FF;">Full-Stack Web Developer</strong> from Indonesia.
-        I love building clean, scalable web applications with modern technologies.
+        <strong style="color: #00E5FF;">Full-Stack Web Developer</strong> from Bengkulu.
+        I love crafting clean, scalable web applications with modern technologies.
         Currently diving deep into <strong style="color: #FFD700;">Laravel</strong> &
         <strong style="color: #3178C6;">TypeScript</strong>.
       </p>
-      <p style="color: #a0a0b8; font-size: 14px; font-family: 'Segoe UI', sans-serif;">
-        🔭 I’m currently working on exciting Laravel & React projects.<br/>
-        🌱 Always learning:  DevOps, Cloud, and System Design.<br/>
-        💬 Ask me about PHP, JavaScript, and building RESTful APIs.
-      </p>
+      <ul style="color: #a0a0b8; font-size: 14px; font-family: 'Segoe UI', sans-serif; list-style-type: none; padding-left: 0; line-height: 2;">
+        <li>🔭 I’m currently working on exciting Laravel &amp; React projects.</li>
+        <li>🌱 Always learning: DevOps, Cloud, and System Design.</li>
+        <li>💬 Ask me about PHP, JavaScript, and building RESTful APIs.</li>
+      </ul>
     </td>
-    <td valign="middle" align="center" width="30%">
-      <!-- Profile picture placeholder – replace with your own -->
-      <img src="https://avatars.githubusercontent.com/u/your-username?v=4" alt="Profile" width="140" style="border-radius: 50%; border: 3px solid #00E5FF; box-shadow: 0 0 30px rgba(0,229,255,0.3);" />
+    <td valign="middle" align="center" width="32%">
+      <!-- Avatar from GitHub (replace 'your-username' if needed) -->
+      <img src="https://avatars.githubusercontent.com/dicky1207?v=4" alt="Dicky Profile" width="150" style="border-radius: 50%; border: 4px solid #00E5FF; box-shadow: 0 0 40px rgba(0,229,255,0.3);" />
       <br />
-      <span style="color: #8888aa; font-size: 14px; font-family: 'Segoe UI', sans-serif;">
-        <code>dicky1207</code>
+      <span style="color: #8888aa; font-size: 15px; font-family: 'Segoe UI', sans-serif; display: block; margin-top: 6px;">
+        <code style="background: #1a1a2e; padding: 4px 12px; border-radius: 20px; color: #00E5FF;">dicky1207</code>
       </span>
     </td>
   </tr>
@@ -70,9 +70,9 @@
 
 <br />
 
-<!-- ====== TECH STACK ====== -->
+<!-- ====== TECH STACK SECTION ====== -->
 <div align="center">
-  <h2 style="color: #00E5FF; font-family: 'Segoe UI', sans-serif; border-bottom: 2px solid #00E5FF; display: inline-block; padding-bottom: 6px;">
+  <h2 style="color: #00E5FF; font-family: 'Segoe UI', sans-serif; border-bottom: 3px solid #00E5FF; display: inline-block; padding-bottom: 6px; text-shadow: 0 0 10px rgba(0,229,255,0.3);">
     🛠️ Tech Stack
   </h2>
 </div>
@@ -80,9 +80,9 @@
 <br />
 
 <!-- Languages -->
-<table align="center" width="100%" border="0" cellpadding="12" cellspacing="0" style="background: #111122; border-radius: 16px; border: 1px solid #2a2a44;">
+<table align="center" width="100%" border="0" cellpadding="12" cellspacing="0" style="background: #111122; border-radius: 18px; border: 1px solid #2a2a44; box-shadow: 0 4px 16px rgba(0,0,0,0.3);">
   <tr>
-    <td colspan="4" style="padding: 10px 20px; background: #1a1a30; border-radius: 16px 16px 0 0;">
+    <td colspan="4" style="padding: 10px 20px; background: #1a1a30; border-radius: 18px 18px 0 0;">
       <span style="color: #FFD700; font-weight: bold; font-size: 18px; font-family: 'Segoe UI', sans-serif;">⌨️ Languages</span>
     </td>
   </tr>
@@ -93,16 +93,18 @@
     <td align="center" width="25%"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
   </tr>
   <tr>
-    <td align="center" colspan="4" style="padding: 4px 0;"><span style="color: #666688; font-size: 13px;">&amp; CSS3, SQL, Bash</span></td>
+    <td align="center" colspan="4" style="padding: 4px 0; color: #666688; font-size: 13px; font-family: 'Segoe UI', sans-serif;">
+      &amp; CSS3, SQL, Bash
+    </td>
   </tr>
 </table>
 
 <br />
 
 <!-- Frameworks & Libraries -->
-<table align="center" width="100%" border="0" cellpadding="12" cellspacing="0" style="background: #111122; border-radius: 16px; border: 1px solid #2a2a44;">
+<table align="center" width="100%" border="0" cellpadding="12" cellspacing="0" style="background: #111122; border-radius: 18px; border: 1px solid #2a2a44; box-shadow: 0 4px 16px rgba(0,0,0,0.3);">
   <tr>
-    <td colspan="4" style="padding: 10px 20px; background: #1a1a30; border-radius: 16px 16px 0 0;">
+    <td colspan="4" style="padding: 10px 20px; background: #1a1a30; border-radius: 18px 18px 0 0;">
       <span style="color: #FFD700; font-weight: bold; font-size: 18px; font-family: 'Segoe UI', sans-serif;">🚀 Frameworks &amp; Libraries</span>
     </td>
   </tr>
@@ -113,16 +115,18 @@
     <td align="center" width="25%"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></td>
   </tr>
   <tr>
-    <td align="center" colspan="4" style="padding: 4px 0;"><span style="color: #666688; font-size: 13px;">+ Bootstrap, Alpine.js, Livewire</span></td>
+    <td align="center" colspan="4" style="padding: 4px 0; color: #666688; font-size: 13px; font-family: 'Segoe UI', sans-serif;">
+      + Bootstrap, Alpine.js, Livewire
+    </td>
   </tr>
 </table>
 
 <br />
 
 <!-- Databases & Servers -->
-<table align="center" width="100%" border="0" cellpadding="12" cellspacing="0" style="background: #111122; border-radius: 16px; border: 1px solid #2a2a44;">
+<table align="center" width="100%" border="0" cellpadding="12" cellspacing="0" style="background: #111122; border-radius: 18px; border: 1px solid #2a2a44; box-shadow: 0 4px 16px rgba(0,0,0,0.3);">
   <tr>
-    <td colspan="4" style="padding: 10px 20px; background: #1a1a30; border-radius: 16px 16px 0 0;">
+    <td colspan="3" style="padding: 10px 20px; background: #1a1a30; border-radius: 18px 18px 0 0;">
       <span style="color: #FFD700; font-weight: bold; font-size: 18px; font-family: 'Segoe UI', sans-serif;">🗄️ Databases &amp; Servers</span>
     </td>
   </tr>
@@ -136,9 +140,9 @@
 <br />
 
 <!-- Tools & DevOps -->
-<table align="center" width="100%" border="0" cellpadding="12" cellspacing="0" style="background: #111122; border-radius: 16px; border: 1px solid #2a2a44;">
+<table align="center" width="100%" border="0" cellpadding="12" cellspacing="0" style="background: #111122; border-radius: 18px; border: 1px solid #2a2a44; box-shadow: 0 4px 16px rgba(0,0,0,0.3);">
   <tr>
-    <td colspan="4" style="padding: 10px 20px; background: #1a1a30; border-radius: 16px 16px 0 0;">
+    <td colspan="4" style="padding: 10px 20px; background: #1a1a30; border-radius: 18px 18px 0 0;">
       <span style="color: #FFD700; font-weight: bold; font-size: 18px; font-family: 'Segoe UI', sans-serif;">⚙️ Tools &amp; DevOps</span>
     </td>
   </tr>
@@ -152,16 +156,16 @@
 
 <br />
 
-<!-- ====== DIVIDER ====== -->
+<!-- ====== RAINBOW DIVIDER ====== -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
 <br />
 
-<!-- ====== GITHUB STATS ====== -->
+<!-- ====== GITHUB STATISTICS ====== -->
 <div align="center">
-  <h2 style="color: #00E5FF; font-family: 'Segoe UI', sans-serif; border-bottom: 2px solid #00E5FF; display: inline-block; padding-bottom: 6px;">
+  <h2 style="color: #00E5FF; font-family: 'Segoe UI', sans-serif; border-bottom: 3px solid #00E5FF; display: inline-block; padding-bottom: 6px; text-shadow: 0 0 10px rgba(0,229,255,0.3);">
     📊 GitHub Analytics
   </h2>
 </div>
@@ -171,10 +175,10 @@
 <table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center" width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=dicky1207&theme=merko&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d0d1a&title_color=00E5FF&text_color=c0c0d0&icon_color=FFD700" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=dicky1207&theme=merko&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d0d1a&title_color=00E5FF&text_color=c0c0d0&icon_color=FFD700&border_radius=12" width="100%" />
     </td>
     <td align="center" width="50%" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dicky1207&theme=merko&hide_border=true&background=0d0d1a&stroke=00E5FF&ring=00E5FF&fire=FFD700&currStreakNum=ffffff&sideNums=c0c0d0&currStreakLabel=00E5FF&sideLabels=c0c0d0&dates=8888aa" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dicky1207&theme=merko&hide_border=true&background=0d0d1a&stroke=00E5FF&ring=00E5FF&fire=FFD700&currStreakNum=ffffff&sideNums=c0c0d0&currStreakLabel=00E5FF&sideLabels=c0c0d0&dates=8888aa&border_radius=12" width="100%" />
     </td>
   </tr>
 </table>
@@ -184,11 +188,10 @@
 <table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center" width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicky1207&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d0d1a&title_color=00E5FF&text_color=c0c0d0" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicky1207&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d0d1a&title_color=00E5FF&text_color=c0c0d0&border_radius=12" width="100%" />
     </td>
     <td align="center" width="50%" valign="top">
-      <!-- Contribution Graph (placeholder) -->
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=dicky1207&theme=react-dark&bg_color=0d0d1a&color=00E5FF&line=FFD700&point=ffffff&hide_border=true&area=true&area_color=00E5FF" width="100%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=dicky1207&theme=react-dark&bg_color=0d0d1a&color=00E5FF&line=FFD700&point=ffffff&hide_border=true&area=true&area_color=00E5FF&border_radius=12" width="100%" />
     </td>
   </tr>
 </table>
@@ -197,7 +200,7 @@
 
 <!-- ====== TROPHIES ====== -->
 <div align="center">
-  <h2 style="color: #00E5FF; font-family: 'Segoe UI', sans-serif; border-bottom: 2px solid #00E5FF; display: inline-block; padding-bottom: 6px;">
+  <h2 style="color: #00E5FF; font-family: 'Segoe UI', sans-serif; border-bottom: 3px solid #00E5FF; display: inline-block; padding-bottom: 6px; text-shadow: 0 0 10px rgba(0,229,255,0.3);">
     🏆 GitHub Trophies
   </h2>
 </div>
@@ -212,7 +215,7 @@
 
 <!-- ====== TOP CONTRIBUTED REPO ====== -->
 <div align="center">
-  <h2 style="color: #00E5FF; font-family: 'Segoe UI', sans-serif; border-bottom: 2px solid #00E5FF; display: inline-block; padding-bottom: 6px;">
+  <h2 style="color: #00E5FF; font-family: 'Segoe UI', sans-serif; border-bottom: 3px solid #00E5FF; display: inline-block; padding-bottom: 6px; text-shadow: 0 0 10px rgba(0,229,255,0.3);">
     🔝 Top Contributed Repo
   </h2>
 </div>
@@ -220,12 +223,12 @@
 <br />
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=dicky1207&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d0d1a&title_color=00E5FF&text_color=c0c0d0&icon_color=FFD700&border_color=2a2a44" width="80%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=dicky1207&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d0d1a&title_color=00E5FF&text_color=c0c0d0&icon_color=FFD700&border_color=2a2a44&border_radius=12" width="80%" />
 </div>
 
 <br />
 
-<!-- ====== DIVIDER ====== -->
+<!-- ====== RAINBOW DIVIDER ====== -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
@@ -234,19 +237,19 @@
 
 <!-- ====== FOOTER ====== -->
 <div align="center">
-  <table border="0" cellpadding="10" cellspacing="0" style="background: #0d0d1a; border-radius: 20px; width: 100%;">
+  <table border="0" cellpadding="16" cellspacing="0" style="background: #0d0d1a; border-radius: 24px; width: 100%; box-shadow: 0 4px 24px rgba(0,0,0,0.5);">
     <tr>
       <td align="center">
-        <p style="color: #8888aa; font-family: 'Segoe UI', sans-serif; font-size: 15px;">
+        <p style="color: #8888aa; font-family: 'Segoe UI', sans-serif; font-size: 16px; margin: 4px 0;">
           ⚡ <strong style="color: #00E5FF;">"Code is poetry, and I'm a poet."</strong> ⚡
         </p>
-        <p style="color: #666688; font-family: 'Segoe UI', sans-serif; font-size: 13px;">
-          Built with ❤️ using  <a href="https://gprm.itsvg.in" style="color: #00E5FF; text-decoration: none;">GPRM</a> &amp;  <a href="https://shields.io" style="color: #00E5FF; text-decoration: none;">Shields.io</a>
+        <p style="color: #666688; font-family: 'Segoe UI', sans-serif; font-size: 14px; margin: 4px 0;">
+          Built with ❤️ using <a href="https://gprm.itsvg.in" style="color: #00E5FF; text-decoration: none;">GPRM</a> &amp; <a href="https://shields.io" style="color: #00E5FF; text-decoration: none;">Shields.io</a>
         </p>
-        <p>
+        <p style="margin: 8px 0;">
           <img src="https://visitcount.itsvg.in/api?id=dicky1207&icon=5&color=0" />
         </p>
-        <p style="color: #444466; font-family: 'Segoe UI', sans-serif; font-size: 12px;">
+        <p style="color: #444466; font-family: 'Segoe UI', sans-serif; font-size: 13px; margin: 4px 0;">
           © 2026 Muhammad Dicky Imansyah
         </p>
       </td>
